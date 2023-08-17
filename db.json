@@ -1,20 +1,6 @@
 {
     "Cars": [
       {
-        "id": 1,
-        "name": "Hard top landcruiser",
-        "brand":"Toyota",
-        "image": "https://toyotakenya.com/wp-content/uploads/2019/09/Land-cruiser-full-1.png",
-        "price": 4500000,
-        "sold": 0,
-        "condition":"Brand New",
-        "mileage":0,
-        "topspeed":"200km/hr",
-        "fuelconsumption":1,
-        "comment":"Good for offroads",
-        "review": 0
-      },
-      {
         "id": 2,
         "name": "Alto",
         "brand":"Suzuki",
