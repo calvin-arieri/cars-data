@@ -69,20 +69,6 @@
         "fuelconsumption":1,
         "comment":"This is the best car for off roaders",
         "review": 0
-      },
-      {
-        "id": 5,
-        "name": "Jimny",
-        "brand":"Suzuki",
-        "image": "https://www.suzuki-kenya.com/media/gamme/modeles/images/00fa9d25362bf0e2f39472706cc8a2b8.jpeg",
-        "price": 2135450,
-        "sold":0,
-        "condition":"Brand New",
-        "mileage":200,
-        "topspeed":"200km/hr",
-        "fuelconsumption":1,
-        "comment":"This is the best car for off roaders",
-        "review": 0
       }
     ],
     
